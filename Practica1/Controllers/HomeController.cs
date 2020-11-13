@@ -26,5 +26,10 @@ namespace Practica1.Controllers
 
             return View();
         }
+        
+        public ActionResult ETC()
+        {
+            return View();
+        }
     }
 }
